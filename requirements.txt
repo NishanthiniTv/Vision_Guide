@@ -1,0 +1,11 @@
+speechrecognition
+pyttsx3
+face_recognition
+opencv_python
+numpy
+Pillow
+pytesseract
+requests
+pyaudio
+matplotlib
+urllib3==1.26.6
